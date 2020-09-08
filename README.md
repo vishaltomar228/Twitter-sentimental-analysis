@@ -18,22 +18,22 @@ Tweets have been classified as positive or negative
 The sentimental analysis of twitter has been done using the model.
 By Logistic Regression
 
-Accuracy = 0.957
+Accuracy = 0.958
 
 Precision =  0.832
 
-Recall score = 0.520
+Recall score = 0.513
 
-F1 score = 0.640
+F1 score = 0.635
 
 By Naive Bayes
 
-Accuracy = 0.941
+Accuracy = 0.940
 
-Precision = 0.6383
+Precision = 0.597
 
-Recall score = 0.453
+Recall score = 0.432
 
-F1 score =  0.530
+F1 score =  0.502
 
 
